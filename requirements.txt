@@ -1,0 +1,3 @@
+openmesh==1.2.1
+numpy==1.24.2
+polyscope==1.3.1
